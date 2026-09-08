@@ -6,7 +6,7 @@ Aplicación web interactiva desarrollada en **Vue.js** y **Vue Router** para la 
 
 ## 🚀 Demo y Repositorio
 
-* **URL en vivo:** [Ver aplicación en Vercel](TU_ENLACE_DE_VERCEL_AQUI)
+* **URL en vivo:** (https://booklist-three-lake.vercel.app/)
 * **Repositorio:** [github.com/gvenegas1998-a11y/BookList]
 
 ---
